@@ -1,0 +1,430 @@
+.navbar {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgb(201, 109, 4) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: white;
+}
+.nav .dropdown-toggle {
+  color: white;
+}
+
+.nav .navlinks:hover {
+  transition: all 0.5s ease-in-out;
+  transform: scale(1.2);
+}
+
+/* @media (max-width: 768px) {
+  .hero-section {
+    background-image: url("https://images.unsplash.com/photo-1569982175971-d92b01cf8694?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  }
+} */
+.min-vh-75 {
+  min-height: 75vh;
+}
+
+.footer {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgb(201, 109, 4) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.customImg {
+  height: 20rem;
+  object-fit: cover;
+}
+
+/* JOBLISTING */
+.col .card.custom-card {
+  box-shadow: 10px 5px 15px rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+  border-radius: 10px;
+  width: 50rem;
+}
+
+.card-body {
+  background-color: #fdfdfd;
+  padding: 1.5rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.customTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 0.3rem;
+}
+
+.card-subtitle {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #6c757d;
+}
+
+.card-text {
+  font-size: 0.95rem;
+  margin-top: 0.8rem;
+  color: #444;
+}
+
+.custombadge .badge {
+  padding: 0.5em 0.8em;
+  font-size: 0.9rem;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.buttons {
+  margin-top: 1.2rem;
+  display: flex;
+  /* align-items: center; */
+  align-self: center;
+}
+
+.buttons .btn:hover {
+  transition: all 0.3s ease;
+  transform: scale(1.1);
+}
+
+.btn-info {
+  background-color: #17a2b8;
+  border: none;
+}
+
+.btn-info:hover {
+  background-color: #138496;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+}
+
+@media (max-width: 576px) {
+  .card-body {
+    text-align: center;
+  }
+
+  .buttons {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+  }
+}
+
+/* NAVIGATION BAR */
+.navbar .brand {
+  /* font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-shadow: 2px 2px 2px rgb(117, 150, 174);
+}
+
+/* JOB POST PAGE */
+.job-post-container {
+  background: #fdfdfd;
+  border-radius: 12px;
+  padding-top: 5%;
+}
+
+.job-post-container .job-illustration {
+  max-width: 100%;
+  height: auto;
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.1));
+}
+
+.job-post-container .card {
+  border-radius: 15px;
+}
+
+.job-post-container .card h3 {
+  font-family: "Segoe UI", sans-serif;
+  font-weight: 700;
+}
+
+.job-post-container form label {
+  font-weight: 500;
+  color: #333;
+}
+
+.job-post-container form input,
+.job-post-container form textarea {
+  border-radius: 10px;
+  box-shadow: none;
+}
+
+.job-post-container .btn-success {
+  border-radius: 10px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.job-post-container .btn-success:hover {
+  background-color: #218838;
+}
+
+.job-post-container .row .customleft {
+  background-color: rgb(217, 139, 20);
+}
+
+.job-post-container .customleft .customshare {
+  font-weight: bolder;
+  text-shadow: 2px 2px 2px rgb(41, 45, 47);
+}
+.job-post-container .customleft hr {
+  color: rgb(8, 69, 0);
+}
+.job-post-container .customLR {
+  box-shadow: 10px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* SIGNUP PAGE */
+.signup-container {
+  background: #ffffff;
+  border-radius: 12px;
+}
+
+.signup-container .signup-img {
+  max-width: 80%;
+  height: auto;
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.1));
+}
+
+.signup-container .card {
+  border-radius: 15px;
+}
+
+.signup-container .card h3 {
+  font-family: "Segoe UI", sans-serif;
+  font-weight: 700;
+}
+
+.signup-container form label {
+  font-weight: 500;
+  color: #333;
+}
+
+.signup-container form input {
+  border-radius: 10px;
+  box-shadow: none;
+}
+
+.signup-container .btn-primary {
+  border-radius: 10px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.signup-container .btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* LOGIN PAGE */
+.login-container {
+  background: #ffffff;
+  border-radius: 12px;
+}
+
+.login-container .login-img {
+  max-width: 80%;
+  height: auto;
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.1));
+}
+
+.login-container .card {
+  border-radius: 15px;
+}
+
+.login-container .card h3 {
+  font-family: "Segoe UI", sans-serif;
+  font-weight: 700;
+  color: orange;
+}
+
+.login-container form label {
+  font-weight: bolder;
+  color: orange;
+}
+
+.login-container form input {
+  border-radius: 10px;
+  font-family: cursive;
+  min-height: 40px;
+}
+
+.login-container .btn-primary {
+  border-radius: 10px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  background-color: orange;
+  font-family: cursive;
+  border: none;
+}
+
+.login-container .btn-primary:hover {
+  background-color: #075480;
+}
+
+/* COMPANIES PAGE */
+.companies .card {
+  border: none;
+  border-radius: 12px;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.companies .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+}
+
+.companies .card-img-top {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #eee;
+}
+
+.companies .card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #1a1a1a;
+}
+
+.companies .card-subtitle {
+  font-size: 0.95rem;
+  color: #777;
+}
+
+.companies .card-text {
+  font-size: 0.9rem;
+  color: #333;
+  line-height: 1.4;
+}
+
+.companies .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  font-weight: 500;
+}
+
+.companies .btn-outline-secondary {
+  border-color: #6c757d;
+  color: #6c757d;
+  font-weight: 500;
+}
+
+.companies .btn-outline-secondary:hover {
+  background-color: #6c757d;
+  color: white;
+}
+
+.companies .card-text.text-truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.password-requirements {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.password-requirements ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.password-requirements li {
+  display: flex;
+  align-items: center;
+  margin: 8px 0;
+  padding-left: 25px;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.password-requirements li .icon {
+  position: absolute;
+  left: 0;
+  font-size: 1.2rem;
+  color: #ccc;
+}
+
+.password-requirements li.valid {
+  color: #28a745; /* Green color for valid */
+}
+
+.password-requirements li.invalid {
+  color: #dc3545; /* Red color for invalid */
+}
+
+.password-requirements li.valid .icon {
+  color: #28a745;
+}
+
+.password-requirements li.invalid .icon {
+  color: #dc3545;
+}
+
+.password-requirements li:hover {
+  transform: translateX(10px);
+  color: #007bff; /* Hover effect with blue color */
+  cursor: pointer;
+}
+
+.error-message {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.userp .card {
+  border-radius: 1.5rem;
+}
+
+.userp h2,
+h4 {
+  font-family: "Segoe UI", sans-serif;
+}
+
+.userp .list-group-item {
+  font-size: 1.1rem;
+}
+
+.avatar {
+  width: 80px;
+  height: 80px;
+  background-color: #6c757d;
+  color: white;
+  font-size: 2rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dark-mode {
+  background-color: #121212 !important;
+  color: white !important;
+}
+
+.dark-mode .card {
+  background-color: #1e1e1e;
+  border: none;
+}
+
+.dark-mode .list-group-item {
+  background-color: #1e1e1e;
+  color: white;
+}

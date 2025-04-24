@@ -1,0 +1,22 @@
+# JSON Server Setup Guide
+
+## Local Development API Server
+
+This project uses `json-server` to provide a mock REST API for development purposes.
+
+### Prerequisites
+- Node.js
+- npm 
+
+### Installation
+1. Install json-server globally:
+   ```bash
+   npm install -g json-server
+   # or
+   yarn global add json-server
+
+2. Running the Server
+Start the JSON server with this command from the project root(job):
+
+bash
+json-server --watch data/db.json --port 8000
