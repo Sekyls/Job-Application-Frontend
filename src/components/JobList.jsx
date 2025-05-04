@@ -1,8 +1,6 @@
 import { NavLink } from "react-router-dom";
 
 const JobList = ({ jobs }) => {
-  //   const navigate = useNavigate();
-
   return (
     <>
       <h1 className="fw-bold display-5 text-center text-warning">
