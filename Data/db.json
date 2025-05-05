@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Frontend Developer",
       "description": "Build and optimize user-facing features using React and Bootstrap.",
       "requirements": "2+ years experience with React.",
@@ -16,7 +16,7 @@
       "image": "https://img.freepik.com/free-photo/view-male-engineer-work-engineers-day-celebration_23-2151615006.jpg?t=st=1745383624~exp=1745387224~hmac=8312d180beed7bba310ec1f967c792ccf0617039dbb0f4b7b0923d923b921d63&w=1380"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Backend Developer",
       "description": "Develop APIs and services using Node.js and Express.",
       "requirements": "3+ years experience in backend development.",
@@ -31,7 +31,7 @@
       "image": "https://images.unsplash.com/photo-1681583484651-281ae2defb17?q=80&w=3860&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Digital Marketing Specialist",
       "description": "Manage digital campaigns and analyze performance metrics.",
       "requirements": "Bachelor's in Marketing or related field.",
@@ -46,7 +46,7 @@
       "image": "https://img.freepik.com/free-photo/corporate-business-people-meeting-boardroom-african-manager-brainstorming-with-colleagues-discussing-strategy-sharing-problem-solving-ideas-collaborating-conference-room-company_482257-13747.jpg?t=st=1745384086~exp=1745387686~hmac=84697894e8184a93655ed802be93c43756f32c547b89689c968723d3e5ab408d&w=1800"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Human Resource Manager",
       "description": "Oversee recruitment and employee relations.",
       "requirements": "5+ years in HR management.",
@@ -61,7 +61,7 @@
       "image": "https://img.freepik.com/free-photo/coworkers-discussing-meeting_1098-521.jpg?t=st=1745384347~exp=1745387947~hmac=bbda0f9cf3fb50f36b956a77ef4dce64f81cfb37696a7178248848bff0da8f94&w=1380"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Sales Representative",
       "description": "Meet sales targets and maintain client relationships.",
       "requirements": "Excellent communication skills.",
@@ -76,7 +76,7 @@
       "image": "https://img.freepik.com/free-photo/person-office-work-day_23-2150690165.jpg?t=st=1745384375~exp=1745387975~hmac=bcbfc15132528b207b05077974c1e5902995e663ac2bcc74cefee05ee91a5262&w=1380"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Graphic Designer",
       "description": "Create visuals for digital and print media.",
       "requirements": "Portfolio of design projects.",
@@ -91,7 +91,7 @@
       "image": "https://img.freepik.com/free-photo/person-doing-their-graphic-design-job_23-2151923174.jpg?t=st=1745384463~exp=1745388063~hmac=8fddf4b158f3a8333ee9c2d290d04272d9d1912b8a084ea8e9cda7523408aea7&w=1380"
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Mobile App Developer",
       "description": "Develop cross-platform mobile apps using Flutter.",
       "requirements": "1+ year Flutter experience.",
@@ -106,7 +106,7 @@
       "image": "https://img.freepik.com/free-photo/representation-user-experience-interface-design_23-2150169853.jpg?t=st=1745384459~exp=1745388059~hmac=08934282c2c98a9e4d8c95729b5075740d869db42f7c90206d59e8ee511d7d16&w=1380"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "UI/UX Designer",
       "description": "Design intuitive user interfaces and conduct usability testing.",
       "requirements": "Strong understanding of design systems.",
@@ -121,7 +121,7 @@
       "image": "https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150104516.jpg?t=st=1745384609~exp=1745388209~hmac=53181605b192f3aa78c9161674889ffa8db2f5c8090021cc35cfffe88e23d81c&w=1800"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Data Analyst",
       "description": "Interpret data and provide business insights.",
       "requirements": "2+ years data analysis experience.",
@@ -136,7 +136,7 @@
       "image": "https://img.freepik.com/free-photo/employee-working-marketing-setting_23-2151871187.jpg?t=st=1745384637~exp=1745388237~hmac=875731b150fadb38c41dcfce7a523c95a0a0c9e75793704016fd952630535ab2&w=1380"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "Project Manager",
       "description": "Lead projects and manage team deliverables.",
       "requirements": "PMP certification preferred.",
@@ -151,7 +151,7 @@
       "image": "https://img.freepik.com/free-photo/elegant-young-man-working-office_273609-5137.jpg?t=st=1745384666~exp=1745388266~hmac=2f382e7d2961b4e4bf08a583d65c8eca01bf6ccad31001cf696c7e6d5f526c67&w=1380"
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Customer Service Officer",
       "description": "Assist clients with inquiries and issue resolution.",
       "requirements": "Excellent communication skills.",
@@ -166,7 +166,7 @@
       "image": "https://img.freepik.com/free-photo/close-up-person-working-call-center_23-2149288218.jpg?t=st=1745384702~exp=1745388302~hmac=bf4556756ed97e0eafd639852f8acce0190d95f81d65442137ab73404251cdb3&w=1380"
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Network Administrator",
       "description": "Maintain network infrastructure and troubleshoot issues.",
       "requirements": "Experience with Cisco routers and switches.",
@@ -181,7 +181,7 @@
       "image": "https://img.freepik.com/free-photo/technician-walking-through-server-rigs_482257-90838.jpg?t=st=1745384741~exp=1745388341~hmac=ee53c72d1b5341670fa708a23f4b02802d2943e89975746be5848802dc7f1099&w=1800"
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Content Writer",
       "description": "Write blogs, articles, and web content.",
       "requirements": "Fluent English writing skills.",
@@ -196,7 +196,7 @@
       "image": "https://img.freepik.com/free-photo/skilled-satisfied-freelance-student-watches-streaming-business-news-sits-good-mood-coworking-space-with-opened-laptop-computer-thinks-ideas-new-science-project_273609-34553.jpg?t=st=1745384779~exp=1745388379~hmac=2de66857fe4a9a7d0e738934efc13d99c9ccfc5d9d1aedc930de5a3404d7b789&w=1380"
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Accountant",
       "description": "Handle financial records and prepare reports.",
       "requirements": "ACCA or related certification.",
@@ -211,7 +211,7 @@
       "image": "https://img.freepik.com/free-photo/stock-market-exchange-economics-investment-graph_53876-167143.jpg?t=st=1745384816~exp=1745388416~hmac=0d04ebb3926eb5f3293302e617b2585d0e2aeb388887218ea8c090c88f5933f7&w=1380"
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Legal Assistant",
       "description": "Support legal team in documentation and research.",
       "requirements": "Law degree preferred.",
@@ -226,7 +226,7 @@
       "image": "https://img.freepik.com/free-photo/lawyer-working-document-with-scales-justice_23-2151962523.jpg?t=st=1745384871~exp=1745388471~hmac=6bf0cddc3a274508d7b1d257dc4815d7152c4f0d34a84d2bbf6a384fae80d4cd&w=1380"
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "Logistics Coordinator",
       "description": "Manage supply chain operations and inventory.",
       "requirements": "Experience in logistics management.",
@@ -241,7 +241,7 @@
       "image": "https://img.freepik.com/free-photo/focused-female-logistic-employee-hardhat-safety-vest-walking-warehouse-carrying-open-folder-looking-through-document-copy-space-front-view-labor-inspection-concept_74855-14238.jpg?t=st=1745384904~exp=1745388504~hmac=8ea6d591899c9b565d8fc9c93ed677df3b6d9eca788a44884d9c9f8e9c2cd3a4&w=1380"
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "Software Tester",
       "description": "Test and report bugs in web and mobile apps.",
       "requirements": "Understanding of QA methodologies.",
@@ -256,7 +256,7 @@
       "image": "https://images.unsplash.com/photo-1624378515195-6bbdb73dff1a?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "Machine Learning Engineer",
       "description": "Build and deploy ML models.",
       "requirements": "Experience with Python and ML frameworks.",
@@ -271,7 +271,7 @@
       "image": "https://img.freepik.com/free-photo/3d-rendering-biorobots-concept_23-2149524399.jpg?t=st=1745385043~exp=1745388643~hmac=15794006b11120bf1b798b3b862d3f07b28f13e74f0ff6360ea575a3fae897eb&w=1380"
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "Social Media Manager",
       "description": "Create and manage content for social media.",
       "requirements": "Experience in digital branding.",
@@ -286,7 +286,7 @@
       "image": "https://img.freepik.com/free-photo/pleased-female-student-takes-break-from-autodidact-uses-cellular-chatting-online-browses-application-sends-text-message-checks-mail-via-wifi-sits-chair-near-workplace-blue-wall_273609-37662.jpg?t=st=1745385103~exp=1745388703~hmac=4fae2c77c6a2ddb164f26de75eb2eff52420d09ca87c962da2c8c00a2226f275&w=1380"
     },
     {
-      "id": 20,
+      "id": "20",
       "title": "Data Entry Clerk",
       "description": "Enter and maintain accurate data records.",
       "requirements": "Attention to detail.",
@@ -319,7 +319,7 @@
   ],
   "companies": [
     {
-      "id": 1,
+      "id": "1",
       "name": "TechNova Solutions",
       "industry": "Information Technology",
       "location": "San Francisco, CA",
@@ -330,7 +330,7 @@
       "founded": 2010
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "GreenRoots Agritech",
       "industry": "Agriculture",
       "location": "Accra, Ghana",
@@ -341,7 +341,7 @@
       "founded": 2015
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Fintrix Capital",
       "industry": "Finance",
       "location": "New York, NY",
@@ -352,7 +352,7 @@
       "founded": 2018
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "EduPath Learning",
       "industry": "Education",
       "location": "London, UK",
@@ -363,7 +363,7 @@
       "founded": 2016
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "MedBridge Health",
       "industry": "Healthcare",
       "location": "Nairobi, Kenya",
@@ -374,7 +374,7 @@
       "founded": 2014
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "UrbanGrid Energy",
       "industry": "Renewable Energy",
       "location": "Berlin, Germany",
@@ -385,7 +385,7 @@
       "founded": 2012
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "ByteCrafters",
       "industry": "Software Development",
       "location": "Lagos, Nigeria",
@@ -396,7 +396,7 @@
       "founded": 2017
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "AutoLink Mobility",
       "industry": "Transportation",
       "location": "Dubai, UAE",
@@ -407,7 +407,7 @@
       "founded": 2019
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "PulseMedia Studios",
       "industry": "Media & Entertainment",
       "location": "Los Angeles, CA",
@@ -418,7 +418,7 @@
       "founded": 2011
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "FreshCrate",
       "industry": "E-commerce",
       "location": "Kampala, Uganda",
@@ -429,7 +429,7 @@
       "founded": 2020
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "CypherNet Labs",
       "industry": "Cybersecurity",
       "location": "Toronto, Canada",
@@ -440,7 +440,7 @@
       "founded": 2013
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "SokoSpace",
       "industry": "Retail Technology",
       "location": "Nairobi, Kenya",
@@ -451,7 +451,7 @@
       "founded": 2021
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Planet Interiors",
       "industry": "Architecture & Design",
       "location": "Cape Town, South Africa",
@@ -462,7 +462,7 @@
       "founded": 2010
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "MobiReach",
       "industry": "Telecommunications",
       "location": "Accra, Ghana",
@@ -473,7 +473,7 @@
       "founded": 2016
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "HealthBridge",
       "industry": "HealthTech",
       "location": "Lusaka, Zambia",
@@ -484,7 +484,7 @@
       "founded": 2018
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "TranzWare Logistics",
       "industry": "Supply Chain",
       "location": "Johannesburg, South Africa",
@@ -495,7 +495,7 @@
       "founded": 2012
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "FarmVault",
       "industry": "Agritech",
       "location": "Ibadan, Nigeria",
@@ -506,7 +506,7 @@
       "founded": 2020
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "CodeBridge Academy",
       "industry": "Education",
       "location": "Kigali, Rwanda",
@@ -517,7 +517,7 @@
       "founded": 2017
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "EcoWare Packaging",
       "industry": "Manufacturing",
       "location": "Dar es Salaam, Tanzania",
@@ -528,7 +528,7 @@
       "founded": 2015
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "CloudCove",
       "industry": "Cloud Computing",
       "location": "Seattle, WA",
@@ -553,6 +553,13 @@
       "email": "denipsyk@gmail.com",
       "password": "@Edureka2",
       "confirmPassword": "@Edureka2"
+    },
+    {
+      "id": "be3b",
+      "name": "Favour",
+      "email": "favour@gmail.com",
+      "password": "@Abcdefg12",
+      "confirmPassword": "@Abcdefg12"
     }
   ]
 }
